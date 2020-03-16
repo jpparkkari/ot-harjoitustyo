@@ -6,3 +6,4 @@ Date:   Sun Mar 15 23:27:11 2020 +0200
 
  README.md | 0
  1 file changed, 0 insertions(+), 0 deletions(-)
+ epäsynkrooni
